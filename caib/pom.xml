@@ -12,16 +12,6 @@
 	  <version>2.0.0</version>
 	</parent>
 	<dependencies>
-		<!--XXX<dependency>
-			<groupId>es.caib.arxiudigital</groupId>
-			<artifactId>arxiudigital-apirest</artifactId>
-			<version>1.0.7</version>
-		</dependency>
-		XXX<dependency>
-			<groupId>org.fundaciobit.plugins</groupId>
-			<artifactId>plugins-api</artifactId>
-			<version>${plugins.api.version}</version>
-		</dependency>-->
 		<dependency>
 			<groupId>org.fundaciobit.pluginsib.arxiu</groupId>
 		  <artifactId>pluginsib-arxiu-api</artifactId>
